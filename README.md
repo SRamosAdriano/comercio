@@ -22,7 +22,7 @@ Antes executar o projeto:
 - Acesse o arquivo hibernate.cfg.xml no projeto comercio:
 	- Altere o usuario e senha para acesso ao banco de dados.
 
-	Acesso para a aplicação
+Acesso para a aplicação
 ---------------------
 
 Execute a classe Cadastro
